@@ -2,6 +2,8 @@
 
 ## Overview
 
+![PUBG API Client](https://h.top4top.io/p_31533vh790.jpg)
+
 This script is a client for the PUBG API. It allows you to interact with various endpoints of the PUBG API to fetch player data, match details, leaderboards, tournaments, and more. 
 
 The script is designed to be simple and straightforward, using Python's `requests` library to handle API requests and `hmac` for secure communication.
